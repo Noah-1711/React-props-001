@@ -17,6 +17,9 @@
 .colordata{
     width: 90%;
     height: 22%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     
 
 }
